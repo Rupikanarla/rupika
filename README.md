@@ -1,0 +1,2 @@
+# rupika
+inheritance
